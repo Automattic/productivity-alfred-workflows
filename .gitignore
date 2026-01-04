@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Alfred temporary/cache files
+*.alfredsnippets
+cache/
+temp/
+temp_*/
+
+# API keys and credentials (extra safety layer)
+*.env
+.env.*
+credentials.json
+secrets.json
+
+# Node modules (if developing workflows)
+node_modules/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts
+dist/
+build/
