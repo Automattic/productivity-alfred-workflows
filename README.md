@@ -92,6 +92,12 @@ Search for transaction IDs.
 Check product prices across different currencies for Automattic products.
 - **File**: `A8c Product Price Currency Checker.alfredworkflow`
 
+#### Gravatar Search
+Search Gravatar profiles by email, username, or hash.
+- **Keyword**: `gra`
+- **Usage**: `gra user@example.com` or `gra username`
+- **File**: `Gravatar Search.alfredworkflow`
+
 ### Security & Development Tools
 
 #### SecurityTrails DNS Lookup
