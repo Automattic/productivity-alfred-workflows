@@ -41,3 +41,6 @@ env/
 # Build artifacts
 dist/
 build/
+
+# Claude Code
+CLAUDE.md
