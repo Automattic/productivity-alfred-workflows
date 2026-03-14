@@ -98,6 +98,17 @@ Search Gravatar profiles by email, username, or hash.
 - **Usage**: `gra user@example.com` or `gra username`
 - **File**: `Gravatar Search.alfredworkflow`
 
+#### Account Checker
+Check for an email address across Gravatar, WordPress.com Users, Store Admin, and Subscriptions — all in one go. Opens four tabs simultaneously so you can quickly verify account presence across all systems. Useful for data deletion requests and account lookups.
+- **Keyword**: `acct`
+- **Usage**: `acct user@example.com`
+- **File**: `Account Checker.alfredworkflow`
+- **Opens**:
+  - Gravatar profile search
+  - WP.com Store Admin (paid upgrades)
+  - WP.com Network Users search
+  - WP.com Subscriptions lookup
+
 ### Security & Development Tools
 
 #### SecurityTrails DNS Lookup
