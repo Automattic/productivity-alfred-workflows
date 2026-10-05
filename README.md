@@ -109,6 +109,16 @@ Check for an email address across Gravatar, WordPress.com Users, Store Admin, an
   - WP.com Network Users search
   - WP.com Subscriptions lookup
 
+#### A8C Products Account Checker
+Companion to Account Checker for the less commonly used Automattic products. Opens each product's admin user search for an email address in one go.
+- **Keyword**: `acct2`
+- **Usage**: `acct2 user@example.com`
+- **File**: `A8C Products Account Checker.alfredworkflow`
+- **Opens**:
+  - Crowdsignal admin user search
+  - Sensei LMS (senseilms.com) user search
+  - Longreads (longreads.com) site users search
+
 ### Security & Development Tools
 
 #### SecurityTrails DNS Lookup
